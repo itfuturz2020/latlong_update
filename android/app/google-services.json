@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019041129122",
+    "firebase_url": "https://latlongupdate.firebaseio.com",
+    "project_id": "latlongupdate",
+    "storage_bucket": "latlongupdate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019041129122:android:042fcc0e4380b25a3b2dfb",
+        "android_client_info": {
+          "package_name": "com.example.latlongupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019041129122-knfdon360n710tcmni29kp1gsrggudh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJMBYrjqXBnkM_KO2D3H5yty7M5SnytSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019041129122-knfdon360n710tcmni29kp1gsrggudh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
